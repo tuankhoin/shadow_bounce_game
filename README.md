@@ -41,12 +41,12 @@ Shadow Bounce consists of the following components:
   Lives will appear as balls on top-left corner of screen.
 #### Handle simultaneous collisions
 To make bouncing more efficient and logic.
-  * *Verify that a ball can only hit a maximum of 2 pegs.
-  * *Collsion effect only applies to the ball for the peg that has bigger contact area.
+  * *Verify that a ball can only hit a maximum of 2 pegs.*
+  * *Collsion effect only applies to the ball for the peg that has bigger contact area.*
 #### Handle grey peg collision
 To avoid tangle.
-  * *Discover the problem: Greys do not disappear, so they might be in contact with the ball multiple times, bouncing the ball back and forth due to the latter's smaller area. This can result in a tangle.
-  * *Solution: Only allows the Greys to affect the ball once upon touch. Make the effect available again only when ball has gotten out of contact.
+  * *Discover the problem: Greys do not disappear, so they might be in contact with the ball multiple times, bouncing the ball back and forth due to the latter's smaller area. This can result in a tangle.*
+  * *Solution: Only allows the Greys to affect the ball once upon touch. Make the effect available again only when ball has gotten out of contact.*
   
 ### Extensions
 I found the original game a bit boring, so I added some more features.
