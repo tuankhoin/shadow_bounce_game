@@ -63,4 +63,4 @@ I found the original game a bit boring, so I added some more features.
   * Cheat codes added. Find it yourself! (Hint: to advance to the next round means that a new board window is opened)
   * **Level Generator: Create `.csv` customized level files to put into the game. Including detailed instructions.**
   ![level](levelgenerator.PNG)
-  *Demo of the level generator. I tried to draw a rocket, but it fails apparently *sighs *
+  *Demo of the level generator. I tried to draw a rocket, but it fails apparently *sighs* *
