@@ -58,4 +58,4 @@ I found the original game a bit boring, so I added some more features.
   * Plate: Bounces the ball back to the game, can be moved using left & right keyboards, if you are too bored and wanted to play Breakout instead.
 #### Gameplay:
   * Cheat codes added. Find it yourself! (Hint: to advance to the next round means that a new board window is opened)
-  * **Level Generator: Create `.csv` customized level files to put into the game. Including detailed instructions.
+  * **Level Generator: Create `.csv` customized level files to put into the game. Including detailed instructions.**
