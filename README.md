@@ -35,6 +35,9 @@ Shadow Bounce consists of the following components:
 * Goal is to clear all the Reds and advance to the next level until clearing them all.
 
 ## Extensions and improvements
+ ![Gameplay](shadowbounce.PNG)
+ *The demo of the game with extension included*
+
 ### Improvements
 
 #### Add lives left on screen to allow players to keep track of their progress.
@@ -59,3 +62,5 @@ I found the original game a bit boring, so I added some more features.
 #### Gameplay:
   * Cheat codes added. Find it yourself! (Hint: to advance to the next round means that a new board window is opened)
   * **Level Generator: Create `.csv` customized level files to put into the game. Including detailed instructions.**
+  ![level](levelgenerator.PNG)
+  *Demo of the level generator. I tried to draw a rocket, but it fails apparently *sighs**
